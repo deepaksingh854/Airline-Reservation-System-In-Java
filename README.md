@@ -1,2 +1,1 @@
-# Airline-Reservation-System-In-Java
-Java Project
+# Airline-reservation-system-java
